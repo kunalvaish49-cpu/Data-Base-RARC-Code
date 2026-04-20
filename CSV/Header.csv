@@ -1,0 +1,15 @@
+﻿RARC,Supplement,CARC,RARC Reason,Sub Category,Common CARC Pairing,CARC Reason
+N846,SUPPLEMENTAL,CO-16,NDC Does Not Matched with HCPCS/CPT Billed,Drug Billing / Data Mismatch · Professional & Facility Claims · CMS-1500 Box 24 & UB-04 (FL43-FL44),Common CARC Pairing,Claim/service lacks information
+N4,SUPPLEMENTAL,CO-22,Missing Invalid prior Insurance Carrier(s) EOB.,Coordination of Benefits (COB) · Secondary & Tertiary Billing · Professional & Facility Claims · CMS-1500 Box 29 & UB-04 FL54,Common CARC Pairing,This care may be covered by another payer per coordination of benefits.
+MA40,SUPPLEMENTAL,CO-16,Missing Admission date.,Facility Billing / UB-04 · Admission Date (FL12) · Inpatient & SNF,Common CARC Pairing,Claim/service lacks information
+MA30,SUPPLEMENTAL,CO-16,Missing Invalid Type of bill.,Facility Billing / UB-04 · Type of Bill (FL4) · Inpatient & Outpatient,Common CARC Pairing,Claim/service lacks information
+N816,SUPPLEMENTAL,CO-16,Invalid NDC Unit of Measure,Drug Billing / Data Mismatch · Professional & Facility Claims · CMS-1500 Box 24 & UB-04 (FL43-FL44),Common CARC Pairing,Claim/service lacks information
+M119,SUPPLEMENTAL,CO-16,Missing / Deactivated / Withdrawn NDC,Drug Billing / Data Mismatch · Professional & Facility Claims · CMS-1500 Box 24 & UB-04 (FL43-FL44),Common CARC Pairing,Claim/service lacks information
+N60,SUPPLEMENTAL,CO-16,A Valid NDC Is Required for Payment of Drug Claims,Drug Billing / Data Mismatch · Professional & Facility Claims · CMS-1500 Box 24 & UB-04 (FL43-FL44),Common CARC Pairing,Claim/service lacks information
+N815,SUPPLEMENTAL,CO-16,Missing NDC Unit Count,Drug Billing / Data Mismatch · Professional & Facility Claims · CMS-1500 Box 24 & UB-04 (FL43-FL44),Common CARC Pairing,Claim/service lacks information
+N847,SUPPLEMENTAL,CO-16,(NDC) billed is obsolete.,Drug Billing / Data Mismatch · Professional & Facility Claims · CMS-1500 Box 24 & UB-04 (FL43-FL44),Common CARC Pairing,Claim/service lacks information
+N848,SUPPLEMENTAL,CO-16,(NDC) billed cannot be associated with a product.,Drug Billing / Data Mismatch · Professional & Facility Claims · CMS-1500 Box 24 & UB-04 (FL43-FL44),Common CARC Pairing,Claim/service lacks information
+M34,SUPPLEMENTAL,CO-16,Claim lacks the CLIA certification number.,Laboratory Billing · CMS-1500 Box 23 / UB-04 FL81 · Professional & Facility Lab Claims,Common CARC Pairing,Claim/service lacks information
+M44,SUPPLEMENTAL,CO-16,Missing Condition Code.,Facility Billing / UB-04 · Condition Codes (FL18–FL28) · Inpatient & Outpatient,Common CARC Pairing,Claim/service lacks information
+M45,SUPPLEMENTAL,CO-16,Missing Occurrence Code(s).,Facility Billing / UB-04 · Occurrence Codes (FL31–FL34) · Inpatient & Outpatient,Common CARC Pairing,Claim/service lacks information
+M62,SUPPLEMENTAL,CO-197,Missing Treatment Authorization Code.,Prior Authorization / Pre-Certification · Professional & Facility Claims · CMS-1500 Box 23 & UB-04 FL63,Common CARC Pairing,Precertification/authorization/notification/pre-treatment absent.
