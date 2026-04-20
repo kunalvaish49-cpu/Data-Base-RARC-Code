@@ -1,0 +1,7 @@
+﻿RARC,Label,Meaning,Important Distinction,Image Link,Image Link 2,Image Link 3
+N846,What This Means,The National Drug Code (NDC) reported on the claim does not match the HCPCS/CPT drug code (typically a J-code) billed on the same service line.,"N846 does not automatically mean the drug is not covered or the claim is permanently denied.
+
+NDC - Drug Look Reference Image ",https://raw.githubusercontent.com/kunalvaish49-cpu/VisualCode_UB-04/main/NDC%20Code%20Format%20%26%20Image.jpg,https://raw.githubusercontent.com/kunalvaish49-cpu/VisualCode_UB-04/930a71b33a96ee4a7d564aaedf7aff9a096800a0/AAPC%20NDC%20Lookup.jpg,https://raw.githubusercontent.com/kunalvaish49-cpu/VisualCode_UB-04/930a71b33a96ee4a7d564aaedf7aff9a096800a0/Inbuild%20NDC%20Lookup.jpg
+N816,What This Means,"The Unit of Measure (UOM) reported alongside the NDC on the claim is either missing, invalid, or does not match how the drug was supplied and administered.","N816 does not mean the drug is not covered.
+
+NDC - Drug Look Reference Image ",https://raw.githubusercontent.com/kunalvaish49-cpu/VisualCode_UB-04/main/NDC%20Code%20Format%20%26%20Image.jpg,https://raw.githubusercontent.com/kunalvaish49-cpu/VisualCode_UB-04/930a71b33a96ee4a7d564aaedf7aff9a096800a0/AAPC%20NDC%20Lookup.jpg,https://raw.githubusercontent.com/kunalvaish49-cpu/VisualCode_UB-04/930a71b33a96ee4a7d564aaedf7aff9a096800a0/Inbuild%20NDC%20Lookup.jpg
